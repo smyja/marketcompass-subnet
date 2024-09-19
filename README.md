@@ -17,9 +17,10 @@ Set it with:
 export TWITTER_USERNAME=YOUR_TWITTER_USERNAME
 export TWITTER_EMAIL=YOUR_EMAIL
 export TWITTER_PASSWORD='TWITTER_PASSWORD'
+```
 
-[!NOTE]
-Use single string for passwords so it reads it properly
+> [!NOTE]  
+> Use single string for passwords so it reads it properly
 
 ### MC_SUBNET_API_URL
 URL for the current version of the API.
