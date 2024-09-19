@@ -10,14 +10,16 @@ You can find detailed information about the project on our [project page](https:
 
 
 ## Environment Variables for Miner
-
-### MC_BEARER_TOKEN
-Bearer token for Twitter Pro API.
+ 
 
 Set it with:
 ```sh
-export MC_BEARER_TOKEN=YOUR_BEARER_TOKEN
-```
+export TWITTER_USERNAME=YOUR_TWITTER_USERNAME
+export TWITTER_EMAIL=YOUR_EMAIL
+export TWITTER_PASSWORD='TWITTER_PASSWORD'
+
+[!NOTE]
+Use single string for passwords so it reads it properly
 
 ### MC_SUBNET_API_URL
 URL for the current version of the API.
