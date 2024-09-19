@@ -1,4 +1,3 @@
----
 
 # Market Compass Subnet
 
